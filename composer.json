@@ -1,7 +1,7 @@
 {
     "name": "algmaal/timezones",
     "type": "library",
-    "description": ":Demo make package",
+    "description": "Demo make package",
     "keywords": [
         "algmaal",
         "timezones"
@@ -11,8 +11,8 @@
     "authors": [
         {
             "name": ":algmaal",
-            "email": ":mohamedalgamal@gmail.com",
-            "homepage": ":https://github.com/algmaal",
+            "email": "mohamedalgamal@gmail.com",
+            "homepage": "https://github.com/algmaal",
             "role": "Developer"
         }
     ],
@@ -41,7 +41,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "master": "1.0.0"
         }
     },
     "config": {
